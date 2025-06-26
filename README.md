@@ -1,4 +1,4 @@
-![image alt] (https://github.com/Sandeepgudme/fifa-fairplay-tiebreaker/blob/main/Screenshot%202025-06-26%20103104.png?raw=true)
+![Image](https://github.com/user-attachments/assets/c0195605-856e-421f-94d9-89de493a2a26)
 
 
 
