@@ -1,3 +1,8 @@
+![image alt] (https://github.com/Sandeepgudme/fifa-fairplay-tiebreaker/blob/main/Screenshot%202025-06-26%20103104.png?raw=true)
+
+
+
+
 ## ⚽ FIFA Fair Play Tiebreaker Simulator
 
 When all four teams in a World Cup group finish with the **same points**, **same goal difference**, and even **same goals scored**, FIFA uses **Fair Play Points** to break the tie.
