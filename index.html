@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>FIFA Fair Play Tiebreaker</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>FIFA Fair Play Tiebreaker</h1>
+    <form id="teamForm">
+      <div class="team-group">
+        <input type="text" placeholder="Team Name" required />
+        <input type="number" placeholder="Yellow Cards" required />
+        <input type="number" placeholder="Indirect Reds (2 yellows)" required />
+        <input type="number" placeholder="Direct Reds" required />
+      </div>
+      <button type="button" id="addTeam">Add Team</button>
+    </form>
+
+    <div id="results"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
