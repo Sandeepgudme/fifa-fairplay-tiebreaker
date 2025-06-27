@@ -68,4 +68,3 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-Let me know your GitHub username and repo name so I can personalize the links and heading. Want a dark mode too?
